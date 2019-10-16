@@ -3,3 +3,6 @@ Hi, I am back to github. This repo would store my completed code file and datase
 
 The content:
 1. Machine learning related
+  1.1 Perceptron (manual implementation);
+  1.2 Linear Regression (manual implementation);
+  1.3 KNN and CNN(Condensed Nearest Neighbors) (call packages)
